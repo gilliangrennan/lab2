@@ -34,7 +34,8 @@ body {
      position: absolute;
      z-index: -1;	
 }
-.project {
+
+.project.html {
     margin-left: 2px;
     background-color: #deebf7;
     padding: 20px;
